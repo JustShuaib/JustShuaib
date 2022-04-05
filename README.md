@@ -11,15 +11,10 @@ I also have big interest in the design and styling of websites so I am constantl
 ## Technologies
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-
 ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
 ![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
-
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-
 ![](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
 
 ## What am I learning? 🌱
