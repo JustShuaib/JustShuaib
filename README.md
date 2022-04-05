@@ -44,8 +44,8 @@ I’m open to opportunites and job openings related to front end web development
 
 ### Stats 🧑‍💻
 
-![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshuaib&show_icons=true&theme=radical)
+![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshuaib&show_icons=true&theme=radical&hide=issues,contribs)
 
-![Shuaib's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justshuaib&langs_count=10&theme=radical)
+![Shuaib's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justshuaib&langs_count=10&layout=compact&theme=radical)
 
-![Shuaib's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustShuaib&theme=radical)
+![Shuaib's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustShuaib&theme=radical&layout=compact)
