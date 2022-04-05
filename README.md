@@ -10,16 +10,21 @@ I also have big interest in the design and styling of websites so I am constantl
 
 ## Technologies
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+
 ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 
-## What am I learning?
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
 
-🌱 I’m currently learning how building interactive and maintainable user interface using ReactJS.
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+
+![](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
+
+## What am I learning? 🌱
+
+I’m currently learning how building interactive and maintainable user interface using ReactJS.
 
 I am also learning about accessibility. I believe websites should be accessible and inclusive to all.
 
@@ -30,8 +35,6 @@ I’m looking to collaborate on Open source web development projects
 ## Want to help me ? 🤔
 
 I’m open to opportunites and job openings related to front end web development.
-
-- 💬 Ask me about ...
 
 ## How to reach me 📫
 
@@ -44,8 +47,10 @@ I’m open to opportunites and job openings related to front end web development
 - He
 - Him
 
-### Top langs 🧑‍💻
+### Stats 🧑‍💻
 
-[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshuaib)](https://github.com/justshuaib/github-readme-stats)
+![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshuaib&show_icons=true&theme=radical)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justshuaib&langs_count=10&theme=radical" alt="Shuaib's :: Top Langs" /></p>
+![Shuaib's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justshuaib&langs_count=10&theme=radical)
+
+![Shuaib's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustShuaib&theme=radical)
