@@ -37,11 +37,6 @@ I’m open to opportunites and job openings related to front end web development
 - LinkedIn: [Adeoti Shuaib](https://www.linkedin.com/in/adeoti-shuaib-55576b186)
 - Mail: [Send me a mail](mailto:adeotishuaib2001@gmail.com)
 
-## How to address me ?😄
-
-- He
-- Him
-
 ### Stats 🧑‍💻
 
 ![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=justshuaib&show_icons=true&theme=radical&hide=issues,contribs)
