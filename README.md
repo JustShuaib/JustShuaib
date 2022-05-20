@@ -27,8 +27,6 @@ I am also learning about accessibility. I believe websites should be accessible 
 
 I’m looking to collaborate on Open source web development projects
 
-## Want to help me ? 🤔
-
 I’m open to opportunites and job openings related to front end web development.
 
 ## How to reach me 📫
