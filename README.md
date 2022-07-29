@@ -43,5 +43,6 @@ src="https://img.shields.io/twitter/follow/JustShuaib?logo=twitter&style=for-the
 <a href="http://www.github.com/JustShuaib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustShuaib&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/JustShuaib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustShuaib&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### Coding stats for the last 7 days
 
 <a href="https://www.github.com/JustShuaib" align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustShuaib&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="WakaTime coding time"/> </a>
