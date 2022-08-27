@@ -4,8 +4,6 @@ Hi 👋 My name is Adeoti Shuaib
 Front-end Web Developer
 -----------------------
 
-I am a web developer 🧑‍💻 currently learning front-end development. I love working with technologies such as JavaScript and React. I also have a significant interest in the design and styling of websites so I am constantly updating my knowledge of emerging technologies related to styling like Tailwind, Framer Motion and Material UI.
-
 * ✉️  You can contact me [Here](mailto:adeotishuaib2001@gmail.com)
 * 🧠  I'm learning how to write cleaner and accessible codes
 * 🤝  I'm open to collaborating on any interesting project
